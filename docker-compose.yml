@@ -1,0 +1,11 @@
+version: '3'
+services:
+  zero-node:
+    build: .
+    ports:
+      - "8545:8545"
+    volumes:
+      - erigon-data:/data
+
+volumes:
+  erigon-data:
