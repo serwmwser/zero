@@ -3,14 +3,13 @@
     "chainId": 11037,
     "homesteadBlock": 0,
     "eip150Block": 0,
-    "eip155Block": 0,
     "clique": {
       "period": 5,
       "epoch": 30000
     }
   },
   "alloc": {
-    "0xВашАдрес": {
+    "0xc2e5650f84Eeb9e4011afbb398108ea302cB17A6": {
       "balance": "1000000000000000000000000"
     }
   },
